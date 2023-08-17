@@ -1,2 +1,21 @@
-### Sueddeutsche
+###############################################################################
+# Syntax help: https://adguard.com/kb/general/ad-filtering/create-own-filters/
+###############################################################################
+
+### Apps ###
+############
+
+# Spark Mail App #
+||cc-api-teamprojects.adobe.io^$important
+
+### Media Pages/Services ###
+############################
+
 ||piano.p.sueddeutsche.de^$important
+
+### Smart Home ###
+##################
+
+# LinkPlay A31_1914 (Spotify) always tries to phone home # 
+||sina.com.cn^$important
+||baidu.com^$important
