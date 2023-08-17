@@ -2,7 +2,18 @@
 # Syntax help: https://adguard.com/kb/general/ad-filtering/create-own-filters/
 ###############################################################################
 
+### Google Search ###
+#####################
+
+@@||www.googleadservices.com
+@@||adservice.google.de
+@@||adservice.google.com
+@@||googleads.g.doubleclick.net
+
+### Media Pages/Services ###
+############################
 
 
-### Netflix ###
+@@||image.ard.de
+# Netflix
 @@||ichnaea.netflix.com
