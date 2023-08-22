@@ -10,10 +10,22 @@
 @@||adservice.google.com
 @@||googleads.g.doubleclick.net
 
+### Shopping ###
+################
+
+@@||aax-eu.amazon.de
+
+### Coupons & Deals ###
+#######################
+
+@@||www.zenaps.com
+@@||zenaps.com.w3snoops.com
+
 ### Media Pages/Services ###
 ############################
-
 
 @@||image.ard.de
 # Netflix
 @@||ichnaea.netflix.com
+
+
