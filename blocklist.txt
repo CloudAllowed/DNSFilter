@@ -11,6 +11,10 @@
 ### Media Pages/Services ###
 ############################
 
+||buy-eu.piano.io^$important
+||cdn-eu.piano.io^$important
+||piano.p.sueddeutsche.de^$important
+||experience-eu.piano.io^$important
 ||piano.p.sueddeutsche.de^$important
 
 ### Smart Home ###
