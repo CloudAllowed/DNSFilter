@@ -14,6 +14,7 @@
 ################
 
 @@||aax-eu.amazon.de
+@@||s.click.aliexpress.com
 
 ### Coupons & Deals ###
 #######################
