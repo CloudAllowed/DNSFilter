@@ -1,3 +1,6 @@
 # Proxmox Nodes
 192.168.0.11  vinnprox.local
 192.168.0.12  prox12.local
+
+# Homelab
+10.10.40.40  heimdall
