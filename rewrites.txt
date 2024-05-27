@@ -1,6 +1,7 @@
 # Proxmox Nodes
-192.168.0.11  vinnprox.local
-192.168.0.12  prox12.local
+|vinnprox.local^dnsrewrite=NOERROR;A;192.168.0.11 
+|prox12.local^dnsrewrite=NOERROR;A;192.168.0.12
 
 # Homelab
-10.10.40.40  heimdall
+192.168.0.12  prox12.local
+|heimdall^dnsrewrite=NOERROR;A;10.10.40.40
